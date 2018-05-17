@@ -24,3 +24,6 @@ see ocr_lex_data in this repo.
 
 ## RNN
 1. [seq2seq](https://arxiv.org/pdf/1409.3215.pdf)
+
+## Tutorials
+[Following](https://github.com/tmbdev/das2018-tutorial)
