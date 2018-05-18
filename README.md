@@ -21,6 +21,7 @@ a. Read this [code](https://github.com/da03/Attention-OCR)
 
 ## DATASETS
 see ocr_lex_data in this repo.
+[清华大学提出中文自然文本数据集CTW](https://mp.weixin.qq.com/s/WfcFiRXBKAMqnDi5KFpIEA), [homepage](https://ctwdataset.github.io/), [github](https://github.com/yuantailing/ctw-baseline)
 
 ## RNN
 1. [seq2seq](https://arxiv.org/pdf/1409.3215.pdf)
